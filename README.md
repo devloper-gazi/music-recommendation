@@ -6,6 +6,11 @@ This project involves an artificial intelligence model that can make random song
 
 These instructions will help you to run and develop the project on your local machine.
 
+## Project view
+
+![image](https://github.com/devloper-gazi/music-recommendation/assets/131589344/48d1218f-a7e5-4a59-9bc2-8d7b9652f549)
+
+
 #### Requirements
 
 You need the following software to run this project:
