@@ -6,6 +6,8 @@ This project involves an artificial intelligence model that can make random song
 
 These instructions will help you to run and develop the project on your local machine.
 
+Notice: Only part of the files are uploaded open. To download and run all files, please download the file named "music-recommendation.zip" and unzip it!
+
 ## Project view
 
 ![image](https://github.com/devloper-gazi/music-recommendation/assets/131589344/48d1218f-a7e5-4a59-9bc2-8d7b9652f549)
