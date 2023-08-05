@@ -22,7 +22,7 @@ We look forward to having you contribute to this project! This document contains
 
 ## Suggestions and Contact
 
-If you need help on how to contribute to the project or would like to share your questions, please do not hesitate to get in touch. Our email address is: example@example.com.
+If you need help on how to contribute to the project or would like to share your questions, please do not hesitate to get in touch. My email address is: official.gaziguzel@gmail.com
 
 ---
 
